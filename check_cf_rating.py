@@ -68,8 +68,18 @@ with open("codeforces_users.json") as json_file:
             res_all.append((acc["maxRating"], "Unknown", acc["handle"]))
 
 res_all = sorted(res_all, key=lambda x: -x[0])
-for i in range(200):
-    print(i + 1, res_all[i][0], res_all[i][1], "[user:" + res_all[i][2] + "]")
+
+with open("README.md", "w") as fw:
+    for i in range(200):
+        print(i + 1, res_all[i][0], res_all[i][1], "[user:" + res_all[i][2] + "]")
+        fw.write(
+            "{} {} {}".format(
+                i + 1, res_all[i][0], res_all[i][1], "[user:" + res_all[i][2] + "]"
+            )
+            + "\n"
+        )
+    fw.write("\n")
+    fw.write("\n")
 
 print()
 print()
@@ -83,5 +93,18 @@ with open("codeforces_users.json") as json_file:
             res_india.append((acc["maxRating"], acc["country"], acc["handle"]))
 
 res_india = sorted(res_india, key=lambda x: -x[0])
-for i in range(200):
-    print(i + 1, res_india[i][0], res_india[i][1], "[user:" + res_india[i][2] + "]")
+
+with open("README.md", "a") as fw:
+    for i in range(200):
+        print(i + 1, res_india[i][0], res_india[i][1], "[user:" + res_india[i][2] + "]")
+        fw.write(
+            "{} {} {}".format(
+                i + 1,
+                res_india[i][0],
+                res_india[i][1],
+                "[user:" + res_india[i][2] + "]",
+            )
+            + "\n"
+        )
+    fw.write("\n")
+    fw.write("\n")
