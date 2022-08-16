@@ -75,8 +75,8 @@ with open("README.md", "w") as fw:
     for i in range(200):
         print(i + 1, res_all[i][0], res_all[i][1], "[user:" + res_all[i][2] + "]")
         fw.write(
-            "| {} |  {} | {} | [user: {}]|\n".format(
-                i + 1, res_all[i][0], res_all[i][1], res_all[i][2]
+            "| {} |  {} | {} | [{}](https://codeforces.com/profile/{})|\n".format(
+                i + 1, res_all[i][0], res_all[i][1], res_all[i][2], res_all[i][2]
             )
         )
     fw.write("\n")
@@ -103,10 +103,11 @@ with open("README.md", "a") as fw:
     for i in range(200):
         print(i + 1, res_india[i][0], res_india[i][1], "[user:" + res_india[i][2] + "]")
         fw.write(
-            "| {} |  {} | {} | [user: {}]|\n".format(
+            "| {} |  {} | {} | [{}](https://codeforces.com/profile/{})|\n".format(
                 i + 1,
                 res_india[i][0],
                 res_india[i][1],
+                res_india[i][2],
                 res_india[i][2],
             )
         )
