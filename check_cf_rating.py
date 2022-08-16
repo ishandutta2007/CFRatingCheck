@@ -96,16 +96,19 @@ with open("codeforces_users.json") as json_file:
 res_india = sorted(res_india, key=lambda x: -x[0])
 
 with open("README.md", "a") as fw:
+    fw.write("# INDIA \n")
+
+    fw.write("| Rank     |      Rating   |    Country    |  Handle |\n")
+    fw.write("|----------|:-------------:|:-------------:|------:|\n")
     for i in range(200):
         print(i + 1, res_india[i][0], res_india[i][1], "[user:" + res_india[i][2] + "]")
         fw.write(
-            "{} {} {}".format(
+            "| {} |  {} | {} | [user: {}]|\n".format(
                 i + 1,
                 res_india[i][0],
                 res_india[i][1],
-                "[user:" + res_india[i][2] + "]",
+                res_india[i][2],
             )
-            + "\n"
         )
     fw.write("\n")
     fw.write("\n")
