@@ -70,13 +70,14 @@ with open("codeforces_users.json") as json_file:
 res_all = sorted(res_all, key=lambda x: -x[0])
 
 with open("README.md", "w") as fw:
+    fw.write("| Rank     |      Rating   |    Country    |  Handle |\n")
+    fw.write("|----------|:-------------:|:-------------:|------:|\n")
     for i in range(200):
         print(i + 1, res_all[i][0], res_all[i][1], "[user:" + res_all[i][2] + "]")
         fw.write(
-            "{} {} {}".format(
-                i + 1, res_all[i][0], res_all[i][1], "[user:" + res_all[i][2] + "]"
+            "| {} |  {} | {} | [user: {}]|\n".format(
+                i + 1, res_all[i][0], res_all[i][1], res_all[i][2]
             )
-            + "\n"
         )
     fw.write("\n")
     fw.write("\n")

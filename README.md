@@ -1,203 +1,205 @@
-1 3979 Belarus
-2 3797 United States
-3 3720 Poland
-4 3688 China
-5 3681 Samoa
-6 3668 United States
-7 3659 China
-8 3654 Canada
-9 3637 Japan
-10 3629 Ukraine
-11 3597 Switzerland
-12 3532 China
-13 3486 China
-14 3438 China
-15 3382 China
-16 3382 China
-17 3376 Russia
-18 3374 China
-19 3369 Japan
-20 3364 Japan
-21 3355 Russia
-22 3352 South Korea
-23 3350 United States
-24 3344 China
-25 3339 Hong Kong
-26 3337 China
-27 3330 Taiwan
-28 3318 South Korea
-29 3317 Canada
-30 3315 Japan
-31 3313 Russia
-32 3305 Hong Kong
-33 3303 Russia
-34 3290 Georgia
-35 3278 Spain
-36 3274 China
-37 3255 China
-38 3251 Japan
-39 3250 Russia
-40 3243 Russia
-41 3235 Germany
-42 3219 United States
-43 3219 China
-44 3217 China
-45 3213 China
-46 3213 Russia
-47 3203 China
-48 3203 China
-49 3199 China
-50 3198 China
-51 3194 Canada
-52 3190 Japan
-53 3182 China
-54 3180 China
-55 3177 China
-56 3172 China
-57 3163 China
-58 3159 China
-59 3148 Russia
-60 3147 United States
-61 3147 Japan
-62 3140 China
-63 3139 China
-64 3134 Japan
-65 3131 Unknown
-66 3131 China
-67 3126 Poland
-68 3122 Japan
-69 3120 Unknown
-70 3115 Japan
-71 3113 China
-72 3105 Poland
-73 3102 Japan
-74 3100 Unknown
-75 3097 Netherlands
-76 3095 South Korea
-77 3095 Ukraine
-78 3093 China
-79 3089 Finland
-80 3082 Japan
-81 3081 Russia
-82 3079 Russia
-83 3076 China
-84 3071 South Korea
-85 3064 Taiwan
-86 3063 Ukraine
-87 3058 Russia
-88 3057 Japan
-89 3053 United States
-90 3053 Poland
-91 3053 Ukraine
-92 3051 Unknown
-93 3050 China
-94 3049 China
-95 3048 United States
-96 3045 Romania
-97 3044 China
-98 3043 China
-99 3042 China
-100 3041 China
-101 3038 Ukraine
-102 3036 South Korea
-103 3035 Serbia
-104 3030 China
-105 3030 United Arab Emirates
-106 3026 China
-107 3026 Russia
-108 3025 Russia
-109 3024 Unknown
-110 3024 Cyprus
-111 3020 China
-112 3019 China
-113 3014 Russia
-114 3013 China
-115 3013 China
-116 3002 Taiwan
-117 3001 Netherlands
-118 2998 Japan
-119 2998 Russia
-120 2997 Russia
-121 2997 Russia
-122 2996 Ukraine
-123 2996 Antarctica
-124 2995 South Korea
-125 2993 Japan
-126 2990 Russia
-127 2989 Russia
-128 2988 France
-129 2987 Hungary
-130 2986 China
-131 2983 Unknown
-132 2983 Spain
-133 2982 Iran
-134 2980 Sweden
-135 2976 Tajikistan
-136 2972 South Korea
-137 2970 Unknown
-138 2969 Russia
-139 2965 China
-140 2960 Japan
-141 2957 Unknown
-142 2957 South Korea
-143 2957 Croatia
-144 2955 South Korea
-145 2953 United Kingdom
-146 2952 Unknown
-147 2952 Taiwan
-148 2949 China
-149 2949 Japan
-150 2945 China
-151 2944 Latvia
-152 2943 Singapore
-153 2940 China
-154 2939 Ukraine
-155 2938 Malaysia
-156 2938 Vietnam
-157 2937 China
-158 2935 Japan
-159 2931 Italy
-160 2931 Japan
-161 2929 China
-162 2929 Russia
-163 2928 Czechia
-164 2925 Canada
-165 2920 China
-166 2919 China
-167 2916 Iran
-168 2914 Japan
-169 2913 China
-170 2912 Russia
-171 2910 South Korea
-172 2909 China
-173 2907 Japan
-174 2907 Russia
-175 2907 China
-176 2903 United States
-177 2901 Japan
-178 2898 Israel
-179 2894 China
-180 2892 Mexico
-181 2891 India
-182 2890 China
-183 2890 China
-184 2888 Unknown
-185 2884 China
-186 2881 South Korea
-187 2880 Kazakhstan
-188 2880 China
-189 2880 Japan
-190 2879 China
-191 2879 Japan
-192 2876 China
-193 2874 United States
-194 2873 China
-195 2872 South Korea
-196 2871 China
-197 2871 China
-198 2870 Russia
-199 2869 Georgia
-200 2867 Georgia
+| Rank     |      Rating   |    Country    |  Handle |
+|----------|:-------------:|:-------------:|------:|
+| 1 |  3979 | Belarus | [user: tourist]|
+| 2 |  3797 | United States | [user: Benq]|
+| 3 |  3720 | Poland | [user: Radewoosh]|
+| 4 |  3688 | China | [user: jiangly]|
+| 5 |  3681 | Samoa | [user: MiracleFaFa]|
+| 6 |  3668 | United States | [user: ecnerwala]|
+| 7 |  3659 | China | [user: slime]|
+| 8 |  3654 | Canada | [user: ksun48]|
+| 9 |  3637 | Japan | [user: maroonrk]|
+| 10 |  3629 | Ukraine | [user: Um_nik]|
+| 11 |  3597 | Switzerland | [user: Petr]|
+| 12 |  3532 | China | [user: greenheadstrange]|
+| 13 |  3486 | China | [user: djq_cpp]|
+| 14 |  3438 | China | [user: sunset]|
+| 15 |  3382 | China | [user: xtqqwq]|
+| 16 |  3382 | China | [user: Rebelz]|
+| 17 |  3376 | Russia | [user: Maksim1744]|
+| 18 |  3374 | China | [user: TLE]|
+| 19 |  3369 | Japan | [user: yosupo]|
+| 20 |  3364 | Japan | [user: heno239]|
+| 21 |  3355 | Russia | [user: LHiC]|
+| 22 |  3352 | South Korea | [user: ko_osaga]|
+| 23 |  3350 | United States | [user: scott_wu]|
+| 24 |  3344 | China | [user: Isonan]|
+| 25 |  3339 | Hong Kong | [user: gamegame]|
+| 26 |  3337 | China | [user: fateice]|
+| 27 |  3330 | Taiwan | [user: kiwikiwi]|
+| 28 |  3318 | South Korea | [user: ainta]|
+| 29 |  3317 | Canada | [user: 300iq]|
+| 30 |  3315 | Japan | [user: hos.lyric]|
+| 31 |  3313 | Russia | [user: Endagorion]|
+| 32 |  3305 | Hong Kong | [user: fivedemands]|
+| 33 |  3303 | Russia | [user: Golovanov399]|
+| 34 |  3290 | Georgia | [user: DmitryGrigorev]|
+| 35 |  3278 | Spain | [user: mhq]|
+| 36 |  3274 | China | [user: Syloviaely]|
+| 37 |  3255 | China | [user: QAQAutoMaton]|
+| 38 |  3251 | Japan | [user: snuke]|
+| 39 |  3250 | Russia | [user: SpyCheese]|
+| 40 |  3243 | Russia | [user: Ormlis]|
+| 41 |  3235 | Germany | [user: Egor]|
+| 42 |  3219 | United States | [user: MeliodasIRA]|
+| 43 |  3219 | China | [user: ABitstOCHASTIC]|
+| 44 |  3217 | China | [user: cnnfls_csy]|
+| 45 |  3213 | China | [user: gisp_zjz]|
+| 46 |  3213 | Russia | [user: Vercingetorix]|
+| 47 |  3203 | China | [user: orzdevinwang]|
+| 48 |  3203 | China | [user: jcvb]|
+| 49 |  3199 | China | [user: yhx-12243]|
+| 50 |  3198 | China | [user: qazswedx2]|
+| 51 |  3194 | Canada | [user: duality]|
+| 52 |  3190 | Japan | [user: yutaka1999]|
+| 53 |  3182 | China | [user: he_____hezhou]|
+| 54 |  3180 | China | [user: ugly2333]|
+| 55 |  3177 | China | [user: Elegia]|
+| 56 |  3172 | China | [user: djq_fpc]|
+| 57 |  3163 | China | [user: _--_-__-]|
+| 58 |  3159 | China | [user: hehezhou]|
+| 59 |  3148 | Russia | [user: Merkurev]|
+| 60 |  3147 | United States | [user: neal]|
+| 61 |  3147 | Japan | [user: SSRS_]|
+| 62 |  3140 | China | [user: gyh20]|
+| 63 |  3139 | China | [user: SkyDec]|
+| 64 |  3134 | Japan | [user: tatyam]|
+| 65 |  3131 | Unknown | [user: zh0ukangyang]|
+| 66 |  3131 | China | [user: Subconscious]|
+| 67 |  3126 | Poland | [user: Marcin_smu]|
+| 68 |  3122 | Japan | [user: LayCurse]|
+| 69 |  3120 | Unknown | [user: NotaMotuaQAQ]|
+| 70 |  3115 | Japan | [user: semiexp]|
+| 71 |  3113 | China | [user: Alice_foo_foo]|
+| 72 |  3105 | Poland | [user: Swistakk]|
+| 73 |  3102 | Japan | [user: HIR180]|
+| 74 |  3100 | Unknown | [user: matthew99]|
+| 75 |  3097 | Netherlands | [user: PavelKunyavskiy]|
+| 76 |  3095 | South Korea | [user: molamola.]|
+| 77 |  3095 | Ukraine | [user: antontrygubO_o]|
+| 78 |  3093 | China | [user: xay5421]|
+| 79 |  3089 | Finland | [user: mango_lassi]|
+| 80 |  3082 | Japan | [user: hitonanode]|
+| 81 |  3081 | Russia | [user: isaf27]|
+| 82 |  3079 | Russia | [user: vepifanov]|
+| 83 |  3076 | China | [user: ohweonfire]|
+| 84 |  3071 | South Korea | [user: HYPERHYPERHYPERCUBELOVER]|
+| 85 |  3064 | Taiwan | [user: hank55663]|
+| 86 |  3063 | Ukraine | [user: I_love_Tanya_Romanova]|
+| 87 |  3058 | Russia | [user: never_giveup]|
+| 88 |  3057 | Japan | [user: noimi]|
+| 89 |  3053 | United States | [user: Geothermal]|
+| 90 |  3053 | Poland | [user: Errichto]|
+| 91 |  3053 | Ukraine | [user: RomaWhite]|
+| 92 |  3051 | Unknown | [user: halyavin]|
+| 93 |  3050 | China | [user: FizzyDavid]|
+| 94 |  3049 | China | [user: cuizhuyefei]|
+| 95 |  3048 | United States | [user: eecs]|
+| 96 |  3045 | Romania | [user: geniucos]|
+| 97 |  3044 | China | [user: panole]|
+| 98 |  3043 | China | [user: kczno1]|
+| 99 |  3042 | China | [user: LJC00118]|
+| 100 |  3041 | China | [user: Laurie]|
+| 101 |  3038 | Ukraine | [user: qwerty787788]|
+| 102 |  3036 | South Korea | [user: TLEwpdus]|
+| 103 |  3035 | Serbia | [user: TadijaSebez]|
+| 104 |  3030 | China | [user: cz_xuyixuan]|
+| 105 |  3030 | United Arab Emirates | [user: eatmore]|
+| 106 |  3026 | China | [user: ccf_n0i]|
+| 107 |  3026 | Russia | [user: Zlobober]|
+| 108 |  3025 | Russia | [user: KAN]|
+| 109 |  3024 | Unknown | [user: ideology]|
+| 110 |  3024 | Cyprus | [user: Kostroma]|
+| 111 |  3020 | China | [user: He_Ren]|
+| 112 |  3019 | China | [user: Heltion]|
+| 113 |  3014 | Russia | [user: Nebuchadnezzar]|
+| 114 |  3013 | China | [user: Karry5307_AK_NOI2022]|
+| 115 |  3013 | China | [user: zx2003]|
+| 116 |  3002 | Taiwan | [user: dreamoon_love_AA]|
+| 117 |  3001 | Netherlands | [user: krijgertje]|
+| 118 |  2998 | Japan | [user: kotatsugame]|
+| 119 |  2998 | Russia | [user: amethyst0]|
+| 120 |  2997 | Russia | [user: AndreySergunin]|
+| 121 |  2997 | Russia | [user: receed]|
+| 122 |  2996 | Ukraine | [user: oleh1421]|
+| 123 |  2996 | Antarctica | [user: riadwaw]|
+| 124 |  2995 | South Korea | [user: _menhera]|
+| 125 |  2993 | Japan | [user: potato167]|
+| 126 |  2990 | Russia | [user: SirShokoladina]|
+| 127 |  2989 | Russia | [user: turmax]|
+| 128 |  2988 | France | [user: Rafbill]|
+| 129 |  2987 | Hungary | [user: peti1234]|
+| 130 |  2986 | China | [user: Miracle0viiiiiv]|
+| 131 |  2983 | Unknown | [user: zdolny_kaczor]|
+| 132 |  2983 | Spain | [user: pashka]|
+| 133 |  2982 | Iran | [user: Amoo_Safar]|
+| 134 |  2980 | Sweden | [user: _h_]|
+| 135 |  2976 | Tajikistan | [user: Farhod_Farmon]|
+| 136 |  2972 | South Korea | [user: dlalswp25]|
+| 137 |  2970 | Unknown | [user: 353cerega]|
+| 138 |  2969 | Russia | [user: Dmitriy.Belichenko]|
+| 139 |  2965 | China | [user: feecIe6418]|
+| 140 |  2960 | Japan | [user: natsugiri]|
+| 141 |  2957 | Unknown | [user: Anadi]|
+| 142 |  2957 | South Korea | [user: gs18115]|
+| 143 |  2957 | Croatia | [user: dorijanlendvaj]|
+| 144 |  2955 | South Korea | [user: blackbori]|
+| 145 |  2953 | United Kingdom | [user: izban]|
+| 146 |  2952 | Unknown | [user: zemen]|
+| 147 |  2952 | Taiwan | [user: BurnedChicken]|
+| 148 |  2949 | China | [user: 137_345_2814]|
+| 149 |  2949 | Japan | [user: Nyaan]|
+| 150 |  2945 | China | [user: jiangly_fan]|
+| 151 |  2944 | Latvia | [user: Alex_2oo8]|
+| 152 |  2943 | Singapore | [user: errorgorn]|
+| 153 |  2940 | China | [user: froggyzhang]|
+| 154 |  2939 | Ukraine | [user: KostasKostil]|
+| 155 |  2938 | Malaysia | [user: zscoder]|
+| 156 |  2938 | Vietnam | [user: Maripium]|
+| 157 |  2937 | China | [user: Hazyknight]|
+| 158 |  2935 | Japan | [user: uwi]|
+| 159 |  2931 | Italy | [user: dario2994]|
+| 160 |  2931 | Japan | [user: maspy]|
+| 161 |  2929 | China | [user: A-SOUL_Bella]|
+| 162 |  2929 | Russia | [user: Egor.Lifar]|
+| 163 |  2928 | Czechia | [user: majk]|
+| 164 |  2925 | Canada | [user: y0105w49]|
+| 165 |  2920 | China | [user: gtrhetr]|
+| 166 |  2919 | China | [user: AoLiGei]|
+| 167 |  2916 | Iran | [user: AliShahali1382]|
+| 168 |  2914 | Japan | [user: Rubikun]|
+| 169 |  2913 | China | [user: PinkRabbit]|
+| 170 |  2912 | Russia | [user: cookiedoth]|
+| 171 |  2910 | South Korea | [user: OnionPringles]|
+| 172 |  2909 | China | [user: A.K.E.E.]|
+| 173 |  2907 | Japan | [user: tute7627]|
+| 174 |  2907 | Russia | [user: fedoseev.timofey]|
+| 175 |  2907 | China | [user: emptyhope]|
+| 176 |  2903 | United States | [user: conqueror_of_tourist]|
+| 177 |  2901 | Japan | [user: kmjp]|
+| 178 |  2898 | Israel | [user: Noam527]|
+| 179 |  2894 | China | [user: Toxel]|
+| 180 |  2892 | Mexico | [user: Tlatoani]|
+| 181 |  2891 | India | [user: kal013]|
+| 182 |  2890 | China | [user: tzc_wk]|
+| 183 |  2890 | China | [user: zhangzy]|
+| 184 |  2888 | Unknown | [user: SomethingNew]|
+| 185 |  2884 | China | [user: basic_string]|
+| 186 |  2881 | South Korea | [user: kdh9949]|
+| 187 |  2880 | Kazakhstan | [user: Batrr]|
+| 188 |  2880 | China | [user: Cyanic]|
+| 189 |  2880 | Japan | [user: nuip]|
+| 190 |  2879 | China | [user: PinkieRabbit]|
+| 191 |  2879 | Japan | [user: mtsd]|
+| 192 |  2876 | China | [user: supy]|
+| 193 |  2874 | United States | [user: stevenkplus]|
+| 194 |  2873 | China | [user: wucstdio]|
+| 195 |  2872 | South Korea | [user: gs12117]|
+| 196 |  2871 | China | [user: Cirno_9baka]|
+| 197 |  2871 | China | [user: AutumnKite]|
+| 198 |  2870 | Russia | [user: Belonogov]|
+| 199 |  2869 | Georgia | [user: saba2000]|
+| 200 |  2867 | Georgia | [user: Temotoloraia]|
 
 
 1 2891 India
